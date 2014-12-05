@@ -17,5 +17,5 @@ $ git pull
 $ git checkout [branch]
 $ git pull --rebase origin [branch]
 $ git rebase master
-$ git push origin master
+$ git push origin [branch]
 ```
