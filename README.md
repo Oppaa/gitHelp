@@ -55,4 +55,6 @@ npm update express      #升级当前目录下的项目的指定模块
 npm update -g express   #升级全局安装的express模块
 
 npm uninstall express   #删除指定的模块
+
+npm cache clear         #清理
 ```
