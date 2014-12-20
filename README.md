@@ -44,6 +44,8 @@ npm install express     #安装express模块
 
 npm install -g express  #全局安装express模块
 
+npm view express dependencies
+
 npm list                #列出已安装模块
 
 npm show express        #显示模块详情
