@@ -62,3 +62,9 @@ npm uninstall express   #删除指定的模块
 
 npm cache clear         #清理
 ```
+
+#### node&npm
+
+```bash
+sass --watch --scss --sourcemap style.scss:style.css
+```
