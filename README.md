@@ -63,8 +63,15 @@ npm uninstall express   #删除指定的模块
 npm cache clear         #清理
 ```
 
-#### node&npm
+#### scss
 
 ```bash
-sass --watch --scss --sourcemap style.scss:style.css
+sass --watch --scss style.scss:style.css
+
+* nested：嵌套缩进的css代码，它是默认值。
+* expanded：没有缩进的、扩展的css代码。
+* compact：简洁格式的css代码。
+* compressed：压缩后的css代码。
+
+sass --style compressed test.sass test.css
 ```
