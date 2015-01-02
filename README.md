@@ -69,7 +69,7 @@ npm cache clear         #清理
 sass --watch --scss style.scss:style.css
 
 * nested：嵌套缩进的css代码，它是默认值。
-* expanded：没有缩进的、扩展的css代码。
+* expanded：没有缩进的、扩展的css代码[常用]
 * compact：简洁格式的css代码。
 * compressed：压缩后的css代码。
 
