@@ -32,6 +32,12 @@ $ git merge 'branch'
 $ git branch -d 'branch'
 ```
 
+>**场景：** apply分支变化
+
+```bash
+git cherry-pick <commit id>
+```
+
 =======
 
 
