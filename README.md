@@ -81,3 +81,13 @@ sass --watch --scss style.scss:style.css
 
 sass --style compressed test.sass test.css
 ```
+
+
+#### mongodb
+
+```bash
+mongod  //启动
+
+use admin  // 切换至admin后才能关闭
+db.shutdownServer() 
+```
