@@ -1,7 +1,7 @@
 
 ##gitHelp
 
->**场景：** rebase master后若冲突不断，可用
+>**场景：** rebase master后若冲突不断可用
 
 ```bash
 $ git merge-base master 'branch'
