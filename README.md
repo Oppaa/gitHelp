@@ -91,3 +91,7 @@ mongod  //启动
 use admin  // 切换至admin后才能关闭
 db.shutdownServer() 
 ```
+
+### nginx
+
+nginx -s reload|reopen|stop|quit
