@@ -94,4 +94,6 @@ db.shutdownServer()
 
 ### nginx
 
+``` bash
 nginx -s reload | reopen | stop | quit
+```
